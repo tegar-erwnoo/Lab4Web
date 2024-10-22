@@ -2,11 +2,11 @@
 |----|---|-----|------|
 |M Tegar Hermawanto|312310404|TI.23.A4|Pemograman Web 1|
 
-![image](https://github.com/user-attachments/assets/90d5efee-1d63-4584-868c-10f139ea1f5f)
+![image](https://github.com/user-attachments/assets/aef7f842-89ee-4f29-8e3a-6588bd464061)
 
-![image](https://github.com/user-attachments/assets/582ada6a-7ac9-49b0-aaaf-ec7fdbdfbac3)
+![image](https://github.com/user-attachments/assets/40fe08a6-4304-45a1-84e3-366a35bf614c)
 
-![image](https://github.com/user-attachments/assets/2d4d381d-1b99-4502-b7b1-d95da4641e89)
+![image](https://github.com/user-attachments/assets/a8825925-0eb0-4798-a05e-10990a8e379d)
 
 Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
